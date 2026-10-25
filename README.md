@@ -1,2 +1,24 @@
-# ToDoList-task-Rria
-سیستم مدیریت لیست فعالیت‌های جاری (Task Management API)  یک وب‌سرویس RESTful استاندارد و سبک پیاده‌سازی شده با .NET Core و Entity Framework Core (SQLite) برای مدیریت وظایف (CRUD). این پروژه با تمرکز بر اصول Clean Code، برنامه‌نویسی غیرهمزمان (async/await)، اعتبارسنجی دقیق ورودی‌ها و مدیریت صحیح کدهای وضعیت HTTP توسعه داده شده است.
+# 📋 Task Management API (.NET Core)
+
+یک پروژه Web API استاندارد برای مدیریت لیست کارها (To-Do List) به عنوان تست فنی شرکت ریرا.
+
+## 🚀 تکنولوژی‌های استفاده شده
+- **.NET 8.0** (یا نسخه دات‌نت شما)
+- **ASP.NET Core Web API**
+- **Entity Framework Core**
+- **SQLite** (به عنوان دیتابیس سبک و بدون نیاز به نصب جانبی)
+- **Swagger / OpenAPI** (جهت مستندسازی)
+
+---
+
+## ⚙️ نحوه اجرا و راه‌اندازی پروژه
+
+برای اجرای این پروژه روی سیستم خود، کافیست مراحل زیر را دنبال کنید:
+
+1. **کلون کردن ریپازیتوری:**
+```bash
+   git clone <repository-url>
+   cd TaskManagementApi
+   
+
+   
